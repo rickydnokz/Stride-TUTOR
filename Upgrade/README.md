@@ -15,4 +15,4 @@ sudo systemctl restart strided && journalctl -fu strided -o cat
 !!! DO NOT UPGRADE BEFORE CHAIN RECHES THE BLOCK `155420`!!!
 
 # EXAMPLE
-![alt text](https://ibb.co/6PRDFfH)
+![alt text](https://github.com/rickydnokz/Stride-TUTOR/blob/main/Upgrade/step%201.png)
